@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @pandaninjas
+- 👀 I’m interested in malware analysis & FOSS
+- 🌱 I’m currently learning new and improved ways of tracking down and analysing malware
+- 💞️ I’m looking to collaborate on anything related to malware analysis
+- 📫 Reach me via discord at PandaNinjas#3017
