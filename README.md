@@ -13,3 +13,21 @@ I'm @pandaninjas, admin at [@thefightagainstmalware](https://github.com/thefight
 ### 📊 GitHub Stats:
 ![my github stats](https://github-readme-stats.vercel.app/api?username=pandaninjas&theme=radical&show_icons=true&count_private=true)
   
+### About Me:
+#### Tools I'm good at
+![Python](https://img.shields.io/badge/-Python-2b5b84?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-AC6829?style=flat&logo=openjdk&logoColor=black)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask&logoColor=white)
+![aiohttp](https://img.shields.io/badge/-aiohttp-blue?style=flat&logo=aiohttp&logoColor=white)
+![PyCord](https://img.shields.io/badge/-PyCord-2f3bbe?style=flat&logo=discord&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-ef391a?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)
+![Replit](https://img.shields.io/badge/-Replit-black?style=flat&logo=replit&logoColor=white)
+![Maven](https://img.shields.io/badge/-Maven-orange?style=flat&logo=apachemaven&logoColor=white)
+#### Tools I have some experience in
+![Sqlite](https://img.shields.io/badge/-Sqlite-orange?style=flat&logo=sqlite&logoColor=white)
+![Discord.py](https://img.shields.io/badge/-discord.py-yellow?style=flat&logo=discord&logoColor=white)
+#### Other
+![Not hireable](https://img.shields.io/badge/hireable-no-red)
+![Passable Mandarin Chinese](https://img.shields.io/badge/Mandarin%20Chinese-Passable-orange)
+![Minimal Spanish](https://img.shields.io/badge/Spanish-Minimal-orange)
