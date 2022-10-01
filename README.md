@@ -27,6 +27,7 @@ I'm @pandaninjas, admin at [@thefightagainstmalware](https://github.com/thefight
 #### Tools I have some experience in
 ![Sqlite](https://img.shields.io/badge/-Sqlite-orange?style=flat&logo=sqlite&logoColor=white)
 ![Discord.py](https://img.shields.io/badge/-discord.py-yellow?style=flat&logo=discord&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-B7410E?style=flat&logo=rust&logoColor=white)
 #### Other
 ![Not hireable](https://img.shields.io/badge/hireable-no-red)
 ![Passable Mandarin Chinese](https://img.shields.io/badge/Mandarin%20Chinese-Passable-orange)
