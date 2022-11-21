@@ -32,3 +32,4 @@ I'm @pandaninjas, admin at [@thefightagainstmalware](https://github.com/thefight
 ![Not hireable](https://img.shields.io/badge/hireable-no-red)
 ![Passable Mandarin Chinese](https://img.shields.io/badge/Mandarin%20Chinese-Passable-orange)
 ![Minimal Spanish](https://img.shields.io/badge/Spanish-Minimal-orange)
+<a rel="me" href="https://infosec.exchange/@pandaninjas">My Mastodon Account</a>
