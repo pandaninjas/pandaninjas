@@ -14,9 +14,9 @@ I'm @pandaninjas, admin at [@thefightagainstmalware](https://github.com/thefight
 ![my github stats](https://github-readme-stats.vercel.app/api?username=pandaninjas&theme=radical&show_icons=true&count_private=true)
   
 ### About Me:
-#### Tools I'm good at
+#### Technologies I'm good at
 ![Python](https://img.shields.io/badge/-Python-2b5b84?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-AC6829?style=flat&logo=openjdk&logoColor=black)
+![Java 8](https://img.shields.io/badge/-Java%208-AC6829?style=flat&logo=openjdk&logoColor=black)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask&logoColor=white)
 ![aiohttp](https://img.shields.io/badge/-aiohttp-blue?style=flat&logo=aiohttp&logoColor=white)
 ![PyCord](https://img.shields.io/badge/-PyCord-2f3bbe?style=flat&logo=discord&logoColor=white)
@@ -24,7 +24,9 @@ I'm @pandaninjas, admin at [@thefightagainstmalware](https://github.com/thefight
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)
 ![Replit](https://img.shields.io/badge/-Replit-black?style=flat&logo=replit&logoColor=white)
 ![Maven](https://img.shields.io/badge/-Maven-orange?style=flat&logo=apachemaven&logoColor=white)
-#### Tools I have some experience in
+![mitmproxy](https://img.shields.io/badge/-mitmproxy-2b5b84?style=flat&logo=wireshark&logoColor=white)
+#### Technologies I have some experience in
+![Java (other versions)](https://img.shields.io/badge/-Java%20(other%20versions)-AC6829?style=flat&logo=openjdk&logoColor=black)
 ![Sqlite](https://img.shields.io/badge/-Sqlite-orange?style=flat&logo=sqlite&logoColor=white)
 ![Discord.py](https://img.shields.io/badge/-discord.py-yellow?style=flat&logo=discord&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-B7410E?style=flat&logo=rust&logoColor=white)
