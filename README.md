@@ -3,7 +3,7 @@ I'm @pandaninjas, admin at [@thefightagainstmalware](https://github.com/thefight
 🌱 I’m currently learning about malware prevention techniques <br>
 💞️ I’m looking to collaborate on anything against malware and phishing <br>
 📫 Reach me via discord at PandaNinjas#3017 or at [The Fight Against Malware](https://discord.gg/TWhrmZFXqb)<br>
-🔑 I sign my commits with [this key](https://github.com/pandaninjas/pandaninjas/blob/main/pandaninjas-commitsigning.key), and sign other messages with [this key](https://github.com/pandaninjas/pandaninjas/blob/main/pandaninjas-publickey.key)<br>
+🔑 I sign my commits with [this key](https://github.com/pandaninjas/pandaninjas/blob/main/pandaninjas-commitsigning.key), my PGP key is [this key](https://github.com/pandaninjas/pandaninjas/blob/main/pandaninjas-publickey.key), and my minisign key is [this key](https://raw.githubusercontent.com/pandaninjas/pandaninjas/main/minisign.pub)<br>
 👀 Watching repo != Endorsement
 
 ### 🏆 GitHub Profile Trophy:
