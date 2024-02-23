@@ -26,6 +26,7 @@ I'm @pandaninjas, admin at [@thefightagainstmalware](https://github.com/thefight
 ![Replit](https://img.shields.io/badge/-Replit-black?style=flat&logo=replit&logoColor=white)
 ![Maven](https://img.shields.io/badge/-Maven-orange?style=flat&logo=apachemaven&logoColor=white)
 ![mitmproxy](https://img.shields.io/badge/-mitmproxy-2b5b84?style=flat&logo=wireshark&logoColor=white)
+![Gradle](https://img.shields.io/badge/-Gradle-02303a?style=flat&logo=gradle&logoColor=white)
 #### Technologies I have some experience in
 ![Java (other versions)](https://img.shields.io/badge/-Java%20(other%20versions)-AC6829?style=flat&logo=openjdk&logoColor=black)
 ![Sqlite](https://img.shields.io/badge/-Sqlite-orange?style=flat&logo=sqlite&logoColor=white)
