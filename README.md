@@ -3,7 +3,7 @@ I'm @pandaninjas, admin at [@thefightagainstmalware](https://github.com/thefight
 🌱 I’m currently learning about malware prevention techniques <br>
 💞️ I’m looking to collaborate on anything against malware and phishing <br>
 📫 Reach me via discord at pandaninjas or at [The Fight Against Malware](https://discord.gg/TWhrmZFXqb)<br>
-🔑 I sign my commits with [this key](https://github.com/pandaninjas/pandaninjas/blob/main/pandaninjas-commitsigning.key), my PGP key is [this key](https://github.com/pandaninjas/pandaninjas/blob/main/pandaninjas-pubkey.key), and my minisign key is [this key](https://raw.githubusercontent.com/pandaninjas/pandaninjas/main/minisign.pub). I also had an old [key](https://github.com/pandaninjas/pandaninjas/blob/main/pandaninjas-old-publickey.key), which has since expired.<br>
+🔑 I occasionally sign my commits with [this key](https://github.com/pandaninjas/pandaninjas/blob/main/pandaninjas-commitsigning.key), my PGP key is [this key](https://github.com/pandaninjas/pandaninjas/blob/main/pandaninjas-pubkey.key), and my minisign key is [this key](https://raw.githubusercontent.com/pandaninjas/pandaninjas/main/minisign.pub). I also had an old [key](https://github.com/pandaninjas/pandaninjas/blob/main/pandaninjas-old-publickey.key), which has since expired.<br>
 
 👀 Watching repo != Endorsement
 
