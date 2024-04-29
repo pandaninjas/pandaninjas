@@ -33,6 +33,6 @@ I'm @pandaninjas, admin at [@thefightagainstmalware](https://github.com/thefight
 ![Discord.py](https://img.shields.io/badge/-discord.py-yellow?style=flat&logo=discord&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-B7410E?style=flat&logo=rust&logoColor=white)
 #### Other
-![Not hireable](https://img.shields.io/badge/hireable-no-red)
+![Potentially hireable](https://img.shields.io/badge/hireable-potentially-yellow)
 ![Passable Mandarin Chinese](https://img.shields.io/badge/Mandarin%20Chinese-Passable-orange)
 ![Passable Spanish](https://img.shields.io/badge/Spanish-Passable-orange)
