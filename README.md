@@ -1,15 +1,10 @@
 I'm @pandaninjas, admin at [@thefightagainstmalware](https://github.com/thefightagainstmalware/)<br>
-👀 I’m interested in malware analysis, sandboxing & FOSS <br>
-🌱 I’m currently learning about malware prevention techniques <br>
-💞️ I’m looking to collaborate on anything against malware and phishing <br>
-📫 Reach me via discord at pandaninjas or at [The Fight Against Malware](https://discord.gg/TWhrmZFXqb)<br>
+👀 I’m interested in cybersecurity<br>
+📫 Reach me via discord at pandaninjas<br>
 🔑 I occasionally sign my commits with [this key](https://github.com/pandaninjas/pandaninjas/blob/main/pandaninjas-commitsigning.key), my PGP key is [this key](https://github.com/pandaninjas/pandaninjas/blob/main/pandaninjas-pubkey.key), and my minisign key is [this key](https://raw.githubusercontent.com/pandaninjas/pandaninjas/main/minisign.pub). I also had an old [key](https://github.com/pandaninjas/pandaninjas/blob/main/pandaninjas-old-publickey.key), which has since expired.<br>
-
-👀 Watching repo != Endorsement
 
 ### 🏆 GitHub Profile Trophy:
 ![programmer trophy case](https://github-profile-trophy.vercel.app/?username=pandaninjas&column=8&theme=discord&no-frame=true&no-bg=true)
-
 
 ### 📊 GitHub Stats:
 ![my github stats](https://github-readme-stats.vercel.app/api?username=pandaninjas&theme=radical&show_icons=true&count_private=true)
@@ -32,7 +27,3 @@ I'm @pandaninjas, admin at [@thefightagainstmalware](https://github.com/thefight
 ![Sqlite](https://img.shields.io/badge/-Sqlite-orange?style=flat&logo=sqlite&logoColor=white)
 ![Discord.py](https://img.shields.io/badge/-discord.py-yellow?style=flat&logo=discord&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-B7410E?style=flat&logo=rust&logoColor=white)
-#### Other
-![Potentially hireable](https://img.shields.io/badge/hireable-potentially-yellow)
-![Passable Mandarin Chinese](https://img.shields.io/badge/Mandarin%20Chinese-Passable-orange)
-![Passable Spanish](https://img.shields.io/badge/Spanish-Passable-orange)
