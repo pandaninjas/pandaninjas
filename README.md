@@ -1,5 +1,4 @@
 I'm @pandaninjas, admin at [@thefightagainstmalware](https://github.com/thefightagainstmalware/)<br>
-👀 I’m interested in cybersecurity<br>
 📫 Reach me via discord at pandaninjas<br>
 🔑 I occasionally sign my commits with [this key](https://github.com/pandaninjas/pandaninjas/blob/main/pandaninjas-commitsigning.key), my PGP key is [this key](https://github.com/pandaninjas/pandaninjas/blob/main/pandaninjas-pubkey.key), and my minisign key is [this key](https://raw.githubusercontent.com/pandaninjas/pandaninjas/main/minisign.pub). I also had an old [key](https://github.com/pandaninjas/pandaninjas/blob/main/pandaninjas-old-publickey.key), which has since expired.<br>
 
